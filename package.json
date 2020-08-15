@@ -2,7 +2,7 @@
   "name": "vue-demo-kugou",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "lavyun <lavyun@163.com>",
+  "author": "wps、cjy、lxy、wc、yr",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
